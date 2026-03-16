@@ -1,0 +1,3 @@
+2026-03-13 12:08:01,557 | INFO | Browser launched
+2026-03-13 12:08:14,862 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_alerts_handling_20260313_120814.png
+2026-03-13 12:08:15,011 | INFO | Browser closed

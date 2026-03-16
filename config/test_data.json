@@ -1,0 +1,37 @@
+{
+  "admin_user": {
+    "email": "admin@example.com",
+    "password": "admin123"
+  },
+  "normal_user": {
+    "email": "user@example.com",
+    "password": "user123"
+  },
+  "invalid_login_matrix": [
+    {
+      "email": "admin@example.com",
+      "password": "wrong123",
+      "expected_error": "Invalid"
+    },
+    {
+      "email": "wrongemail",
+      "password": "admin123",
+      "expected_error": "Invalid"
+    },
+    {
+      "email": "",
+      "password": "",
+      "expected_error": "required"
+    }
+  ],
+  "project": {
+    "name": "Project Alpha",
+    "description": "UI automation project",
+    "status": "Active"
+  },
+  "task": {
+    "name": "Task 1",
+    "new_status": "In Progress"
+  },
+  "prompt_text": "Hello Selenium"
+}

@@ -1,0 +1,380 @@
+2026-03-13 11:14:29,764 | INFO | Browser launched
+2026-03-13 11:14:58,899 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_valid_admin_login_20260313_111458.png
+2026-03-13 11:15:01,222 | INFO | Browser closed
+2026-03-13 11:15:04,394 | INFO | Browser launched
+2026-03-13 11:15:39,034 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_invalid_login_matrix[row0]_20260313_111538.png
+2026-03-13 11:15:41,348 | INFO | Browser closed
+2026-03-13 11:15:44,544 | INFO | Browser launched
+2026-03-13 11:16:02,293 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_invalid_login_matrix[row1]_20260313_111602.png
+2026-03-13 11:16:04,675 | INFO | Browser closed
+2026-03-13 11:16:07,853 | INFO | Browser launched
+2026-03-13 11:16:36,897 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_invalid_login_matrix[row2]_20260313_111636.png
+2026-03-13 11:16:39,237 | INFO | Browser closed
+2026-03-13 11:18:21,713 | INFO | Browser launched
+2026-03-13 11:18:56,627 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_valid_admin_login_20260313_111856.png
+2026-03-13 11:18:58,878 | INFO | Browser closed
+2026-03-13 11:19:02,074 | INFO | Browser launched
+2026-03-13 11:19:43,066 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_invalid_login_matrix[row0]_20260313_111942.png
+2026-03-13 11:19:45,298 | INFO | Browser closed
+2026-03-13 11:19:48,547 | INFO | Browser launched
+2026-03-13 11:20:17,660 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_invalid_login_matrix[row1]_20260313_112017.png
+2026-03-13 11:20:19,909 | INFO | Browser closed
+2026-03-13 11:20:23,229 | INFO | Browser launched
+2026-03-13 11:21:00,395 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_invalid_login_matrix[row2]_20260313_112100.png
+2026-03-13 11:21:02,672 | INFO | Browser closed
+2026-03-13 11:23:23,959 | INFO | Browser launched
+2026-03-13 11:23:58,841 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_valid_admin_login_20260313_112358.png
+2026-03-13 11:24:01,088 | INFO | Browser closed
+2026-03-13 11:31:52,077 | INFO | Browser launched
+2026-03-13 11:32:30,774 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_valid_admin_login_20260313_113230.png
+2026-03-13 11:32:33,030 | INFO | Browser closed
+2026-03-13 11:32:37,194 | INFO | Browser launched
+2026-03-13 11:33:06,662 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_invalid_login_matrix[row0]_20260313_113306.png
+2026-03-13 11:33:08,935 | INFO | Browser closed
+2026-03-13 11:33:12,152 | INFO | Browser launched
+2026-03-13 11:33:47,331 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_invalid_login_matrix[row1]_20260313_113346.png
+2026-03-13 11:33:49,600 | INFO | Browser closed
+2026-03-13 11:33:52,763 | INFO | Browser launched
+2026-03-13 11:34:17,849 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_invalid_login_matrix[row2]_20260313_113417.png
+2026-03-13 11:34:21,785 | INFO | Browser closed
+2026-03-13 11:36:06,063 | INFO | Browser launched
+2026-03-13 11:36:19,450 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_valid_admin_login_20260313_113619.png
+2026-03-13 11:36:21,672 | INFO | Browser closed
+2026-03-13 11:36:24,904 | INFO | Browser launched
+2026-03-13 11:36:49,294 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_valid_user_login_20260313_113648.png
+2026-03-13 11:36:51,558 | INFO | Browser closed
+2026-03-13 11:38:03,479 | INFO | Browser launched
+2026-03-13 11:38:15,589 | INFO | Browser closed
+2026-03-13 11:38:22,905 | INFO | Browser launched
+2026-03-13 11:38:34,451 | INFO | Browser closed
+2026-03-13 11:40:10,383 | INFO | Browser launched
+2026-03-13 11:40:10,385 | INFO | Browser launched
+2026-03-13 11:40:10,387 | INFO | Browser launched
+2026-03-13 11:40:22,530 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_admin_users_page_access_20260313_114022.png
+2026-03-13 11:40:22,581 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_alerts_handling_20260313_114022.png
+2026-03-13 11:40:22,622 | INFO | Browser closed
+2026-03-13 11:40:22,670 | INFO | Browser closed
+2026-03-13 11:40:22,957 | INFO | Browser launched
+2026-03-13 11:40:23,005 | INFO | Browser launched
+2026-03-13 11:40:23,920 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_non_admin_access_restriction_20260313_114023.png
+2026-03-13 11:40:24,009 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_frames_and_windows_20260313_114023.png
+2026-03-13 11:40:24,010 | INFO | Browser closed
+2026-03-13 11:40:24,101 | INFO | Browser closed
+2026-03-13 11:40:24,369 | INFO | Browser launched
+2026-03-13 11:40:24,722 | INFO | Browser closed
+2026-03-13 11:40:25,019 | INFO | Browser launched
+2026-03-13 11:40:25,221 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_project_creation_flow_20260313_114024.png
+2026-03-13 11:40:25,306 | INFO | Browser closed
+2026-03-13 11:40:25,643 | INFO | Browser launched
+2026-03-13 11:40:26,430 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_task_status_update_20260313_114025.png
+2026-03-13 11:40:26,509 | INFO | Browser closed
+2026-03-13 11:40:28,128 | INFO | Browser closed
+2026-03-13 11:40:28,401 | INFO | Browser launched
+2026-03-13 11:40:29,272 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_dashboard_role_visible_20260313_114028.png
+2026-03-13 11:40:29,352 | INFO | Browser closed
+2026-03-13 11:40:37,294 | INFO | Browser launched
+2026-03-13 11:40:37,295 | INFO | Browser launched
+2026-03-13 11:40:37,309 | INFO | Browser launched
+2026-03-13 11:40:38,370 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_alerts_handling_20260313_114037.png
+2026-03-13 11:40:38,382 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_admin_users_page_access_20260313_114037.png
+2026-03-13 11:40:38,457 | INFO | Browser closed
+2026-03-13 11:40:38,470 | INFO | Browser closed
+2026-03-13 11:40:38,817 | INFO | Browser launched
+2026-03-13 11:40:38,837 | INFO | Browser launched
+2026-03-13 11:40:39,647 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_frames_and_windows_20260313_114039.png
+2026-03-13 11:40:39,682 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_non_admin_access_restriction_20260313_114039.png
+2026-03-13 11:40:39,731 | INFO | Browser closed
+2026-03-13 11:40:39,765 | INFO | Browser closed
+2026-03-13 11:40:40,057 | INFO | Browser launched
+2026-03-13 11:40:40,913 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_project_creation_flow_20260313_114040.png
+2026-03-13 11:40:40,991 | INFO | Browser closed
+2026-03-13 11:40:41,271 | INFO | Browser launched
+2026-03-13 11:40:42,002 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_task_status_update_20260313_114041.png
+2026-03-13 11:40:42,087 | INFO | Browser closed
+2026-03-13 11:40:49,290 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_valid_admin_login_20260313_114048.png
+2026-03-13 11:40:49,377 | INFO | Browser closed
+2026-03-13 11:40:49,656 | INFO | Browser launched
+2026-03-13 11:40:52,634 | INFO | Browser closed
+2026-03-13 11:40:52,895 | INFO | Browser launched
+2026-03-13 11:40:53,554 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_dashboard_role_visible_20260313_114053.png
+2026-03-13 11:40:53,633 | INFO | Browser closed
+2026-03-13 11:41:00,305 | INFO | Browser launched
+2026-03-13 11:41:00,306 | INFO | Browser launched
+2026-03-13 11:41:00,311 | INFO | Browser launched
+2026-03-13 11:41:01,186 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_admin_users_page_access_20260313_114100.png
+2026-03-13 11:41:01,219 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_alerts_handling_20260313_114100.png
+2026-03-13 11:41:01,268 | INFO | Browser closed
+2026-03-13 11:41:01,303 | INFO | Browser closed
+2026-03-13 11:41:01,612 | INFO | Browser launched
+2026-03-13 11:41:01,644 | INFO | Browser launched
+2026-03-13 11:41:02,387 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_non_admin_access_restriction_20260313_114101.png
+2026-03-13 11:41:02,440 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_frames_and_windows_20260313_114101.png
+2026-03-13 11:41:02,473 | INFO | Browser closed
+2026-03-13 11:41:02,528 | INFO | Browser closed
+2026-03-13 11:41:02,772 | INFO | Browser launched
+2026-03-13 11:41:03,349 | INFO | Browser closed
+2026-03-13 11:41:03,480 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_project_creation_flow_20260313_114103.png
+2026-03-13 11:41:03,567 | INFO | Browser closed
+2026-03-13 11:41:03,651 | INFO | Browser launched
+2026-03-13 11:41:03,857 | INFO | Browser launched
+2026-03-13 11:41:04,607 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_task_status_update_20260313_114104.png
+2026-03-13 11:41:04,688 | INFO | Browser closed
+2026-03-13 11:41:06,643 | INFO | Browser closed
+2026-03-13 11:41:06,894 | INFO | Browser launched
+2026-03-13 11:41:07,643 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_dashboard_role_visible_20260313_114107.png
+2026-03-13 11:41:07,722 | INFO | Browser closed
+2026-03-13 11:42:46,921 | INFO | Browser launched
+2026-03-13 11:42:46,925 | INFO | Browser launched
+2026-03-13 11:42:46,934 | INFO | Browser launched
+2026-03-13 11:43:01,221 | INFO | Browser closed
+2026-03-13 11:43:01,630 | INFO | Browser launched
+2026-03-13 11:43:06,303 | INFO | Browser closed
+2026-03-13 11:43:06,586 | INFO | Browser launched
+2026-03-13 11:43:10,534 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_admin_users_page_access_20260313_114310.png
+2026-03-13 11:43:10,591 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_alerts_handling_20260313_114310.png
+2026-03-13 11:43:10,627 | INFO | Browser closed
+2026-03-13 11:43:10,710 | INFO | Browser closed
+2026-03-13 11:43:11,025 | INFO | Browser launched
+2026-03-13 11:43:11,105 | INFO | Browser launched
+2026-03-13 11:43:12,610 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_non_admin_access_restriction_20260313_114312.png
+2026-03-13 11:43:12,697 | INFO | Browser closed
+2026-03-13 11:43:13,068 | INFO | Browser launched
+2026-03-13 11:43:22,056 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_dashboard_role_visible_20260313_114321.png
+2026-03-13 11:43:22,144 | INFO | Browser closed
+2026-03-13 11:43:23,477 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_frames_and_windows_20260313_114323.png
+2026-03-13 11:43:23,567 | INFO | Browser closed
+2026-03-13 11:43:25,312 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_project_creation_flow_20260313_114324.png
+2026-03-13 11:43:25,400 | INFO | Browser closed
+2026-03-13 11:43:25,701 | INFO | Browser launched
+2026-03-13 11:43:38,780 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_task_status_update_20260313_114338.png
+2026-03-13 11:43:38,868 | INFO | Browser closed
+2026-03-13 11:51:33,743 | INFO | Browser launched
+2026-03-13 11:51:33,752 | INFO | Browser launched
+2026-03-13 11:51:47,939 | INFO | Browser closed
+2026-03-13 11:51:48,411 | INFO | Browser launched
+2026-03-13 11:51:53,116 | INFO | Browser closed
+2026-03-13 11:51:53,383 | INFO | Browser launched
+2026-03-13 11:51:57,269 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_admin_users_page_access_20260313_115156.png
+2026-03-13 11:51:57,285 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_alerts_handling_20260313_115156.png
+2026-03-13 11:51:57,373 | INFO | Browser closed
+2026-03-13 11:51:57,406 | INFO | Browser closed
+2026-03-13 11:51:57,856 | INFO | Browser launched
+2026-03-13 11:51:57,890 | INFO | Browser launched
+2026-03-13 11:51:59,770 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_non_admin_access_restriction_20260313_115159.png
+2026-03-13 11:51:59,860 | INFO | Browser closed
+2026-03-13 11:52:00,300 | INFO | Browser launched
+2026-03-13 11:52:09,234 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_dashboard_role_visible_20260313_115208.png
+2026-03-13 11:52:09,365 | INFO | Browser closed
+2026-03-13 11:52:10,407 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_frames_and_windows_20260313_115209.png
+2026-03-13 11:52:10,511 | INFO | Browser closed
+2026-03-13 11:52:12,763 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_project_creation_flow_20260313_115212.png
+2026-03-13 11:52:12,858 | INFO | Browser closed
+2026-03-13 11:52:13,274 | INFO | Browser launched
+2026-03-13 11:52:25,629 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_task_status_update_20260313_115225.png
+2026-03-13 11:52:25,731 | INFO | Browser closed
+2026-03-13 12:04:09,616 | INFO | Browser launched
+2026-03-13 12:04:09,619 | INFO | Browser launched
+2026-03-13 12:04:09,619 | INFO | Browser launched
+2026-03-13 12:04:13,576 | INFO | Browser closed
+2026-03-13 12:04:14,231 | INFO | Browser launched
+2026-03-13 12:04:14,809 | INFO | Browser closed
+2026-03-13 12:04:15,542 | INFO | Browser launched
+2026-03-13 12:04:15,817 | INFO | Browser closed
+2026-03-13 12:04:16,508 | INFO | Browser launched
+2026-03-13 12:04:18,949 | INFO | Browser closed
+2026-03-13 12:04:19,530 | INFO | Browser launched
+2026-03-13 12:04:23,214 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_alerts_handling_20260313_120422.png
+2026-03-13 12:04:23,312 | INFO | Browser closed
+2026-03-13 12:04:23,853 | INFO | Browser launched
+2026-03-13 12:04:29,426 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_project_creation_flow_20260313_120428.png
+2026-03-13 12:04:29,533 | INFO | Browser closed
+2026-03-13 12:04:30,177 | INFO | Browser launched
+2026-03-13 12:04:36,665 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_frames_and_windows_20260313_120435.png
+2026-03-13 12:04:36,757 | INFO | Browser closed
+2026-03-13 12:04:38,791 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_dashboard_role_visible_20260313_120438.png
+2026-03-13 12:04:38,883 | INFO | Browser closed
+2026-03-13 12:04:42,922 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_task_status_update_20260313_120442.png
+2026-03-13 12:04:43,020 | INFO | Browser closed
+2026-03-13 12:06:16,441 | INFO | Browser launched
+2026-03-13 12:06:19,814 | INFO | Browser closed
+2026-03-13 12:08:01,541 | INFO | Browser launched
+2026-03-13 12:08:01,557 | INFO | Browser launched
+2026-03-13 12:08:01,580 | INFO | Browser launched
+2026-03-13 12:08:05,110 | INFO | Browser closed
+2026-03-13 12:08:05,771 | INFO | Browser launched
+2026-03-13 12:08:07,130 | INFO | Browser closed
+2026-03-13 12:08:07,727 | INFO | Browser launched
+2026-03-13 12:08:09,233 | INFO | Browser closed
+2026-03-13 12:08:09,873 | INFO | Browser launched
+2026-03-13 12:08:12,020 | INFO | Browser closed
+2026-03-13 12:08:12,699 | INFO | Browser launched
+2026-03-13 12:08:14,862 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_alerts_handling_20260313_120814.png
+2026-03-13 12:08:15,011 | INFO | Browser closed
+2026-03-13 12:08:15,635 | INFO | Browser launched
+2026-03-13 12:08:16,232 | INFO | Browser closed
+2026-03-13 12:08:22,643 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_project_creation_flow_20260313_120822.png
+2026-03-13 12:08:22,729 | INFO | Browser closed
+2026-03-13 12:08:23,315 | INFO | Browser launched
+2026-03-13 12:08:28,188 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_frames_and_windows_20260313_120827.png
+2026-03-13 12:08:28,280 | INFO | Browser closed
+2026-03-13 12:08:35,869 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_task_status_update_20260313_120835.png
+2026-03-13 12:08:35,956 | INFO | Browser closed
+2026-03-13 12:15:23,089 | INFO | Browser launched
+2026-03-13 12:15:23,100 | INFO | Browser launched
+2026-03-13 12:15:23,212 | INFO | Browser launched
+2026-03-13 12:15:26,786 | INFO | Browser closed
+2026-03-13 12:15:27,456 | INFO | Browser launched
+2026-03-13 12:15:28,843 | INFO | Browser closed
+2026-03-13 12:15:29,402 | INFO | Browser launched
+2026-03-13 12:15:30,873 | INFO | Browser closed
+2026-03-13 12:15:31,392 | INFO | Browser launched
+2026-03-13 12:15:31,902 | INFO | Browser closed
+2026-03-13 12:15:32,422 | INFO | Browser launched
+2026-03-13 12:15:36,381 | INFO | Browser closed
+2026-03-13 12:15:36,501 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_alerts_handling_20260313_121535.png
+2026-03-13 12:15:36,600 | INFO | Browser closed
+2026-03-13 12:15:37,106 | INFO | Browser launched
+2026-03-13 12:15:44,362 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_project_creation_flow_20260313_121543.png
+2026-03-13 12:15:44,458 | INFO | Browser closed
+2026-03-13 12:15:44,924 | INFO | Browser launched
+2026-03-13 12:15:49,658 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_frames_and_windows_20260313_121549.png
+2026-03-13 12:15:49,750 | INFO | Browser closed
+2026-03-13 12:15:57,397 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_task_status_update_20260313_121556.png
+2026-03-13 12:15:57,488 | INFO | Browser closed
+2026-03-13 12:20:12,870 | INFO | Browser launched
+2026-03-13 12:20:12,889 | INFO | Browser launched
+2026-03-13 12:20:12,905 | INFO | Browser launched
+2026-03-13 12:20:18,109 | INFO | Browser closed
+2026-03-13 12:20:18,691 | INFO | Browser launched
+2026-03-13 12:20:20,063 | INFO | Browser closed
+2026-03-13 12:20:20,611 | INFO | Browser launched
+2026-03-13 12:20:22,015 | INFO | Browser closed
+2026-03-13 12:20:22,075 | INFO | Browser closed
+2026-03-13 12:20:22,569 | INFO | Browser launched
+2026-03-13 12:20:22,665 | INFO | Browser launched
+2026-03-13 12:20:25,954 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_alerts_handling_20260313_122025.png
+2026-03-13 12:20:26,054 | INFO | Browser closed
+2026-03-13 12:20:26,603 | INFO | Browser launched
+2026-03-13 12:20:27,689 | INFO | Browser closed
+2026-03-13 12:20:35,310 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_project_creation_flow_20260313_122034.png
+2026-03-13 12:20:35,406 | INFO | Browser closed
+2026-03-13 12:20:35,861 | INFO | Browser launched
+2026-03-13 12:20:39,185 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_frames_and_windows_20260313_122038.png
+2026-03-13 12:20:39,268 | INFO | Browser closed
+2026-03-13 12:20:48,127 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_task_status_update_20260313_122047.png
+2026-03-13 12:20:48,212 | INFO | Browser closed
+2026-03-13 12:24:09,035 | INFO | Browser launched
+2026-03-13 12:24:09,042 | INFO | Browser launched
+2026-03-13 12:24:09,086 | INFO | Browser launched
+2026-03-13 12:24:12,609 | INFO | Browser closed
+2026-03-13 12:24:13,368 | INFO | Browser launched
+2026-03-13 12:24:21,975 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_alerts_handling_20260313_122421.png
+2026-03-13 12:24:22,070 | INFO | Browser closed
+2026-03-13 12:24:22,609 | INFO | Browser launched
+2026-03-13 12:24:22,818 | INFO | Browser closed
+2026-03-13 12:24:22,959 | INFO | Browser closed
+2026-03-13 12:24:23,567 | INFO | Browser launched
+2026-03-13 12:24:23,696 | INFO | Browser launched
+2026-03-13 12:24:25,196 | INFO | Browser closed
+2026-03-13 12:24:25,719 | INFO | Browser launched
+2026-03-13 12:24:28,794 | INFO | Browser closed
+2026-03-13 12:24:35,219 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_frames_and_windows_20260313_122434.png
+2026-03-13 12:24:35,305 | INFO | Browser closed
+2026-03-13 12:24:38,414 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_project_creation_flow_20260313_122437.png
+2026-03-13 12:24:38,501 | INFO | Browser closed
+2026-03-13 12:24:38,952 | INFO | Browser launched
+2026-03-13 12:24:51,272 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_task_status_update_20260313_122450.png
+2026-03-13 12:24:51,359 | INFO | Browser closed
+2026-03-13 12:30:59,992 | INFO | Browser launched
+2026-03-13 12:30:59,996 | INFO | Browser launched
+2026-03-13 12:31:00,020 | INFO | Browser launched
+2026-03-13 12:31:03,562 | INFO | Browser closed
+2026-03-13 12:31:04,236 | INFO | Browser launched
+2026-03-13 12:31:06,778 | INFO | Browser closed
+2026-03-13 12:31:07,362 | INFO | Browser launched
+2026-03-13 12:31:08,261 | INFO | Browser closed
+2026-03-13 12:31:08,756 | INFO | Browser closed
+2026-03-13 12:31:08,861 | INFO | Browser closed
+2026-03-13 12:31:08,892 | INFO | Browser launched
+2026-03-13 12:31:09,388 | INFO | Browser launched
+2026-03-13 12:31:09,494 | INFO | Browser launched
+2026-03-13 12:31:14,328 | INFO | Browser closed
+2026-03-13 12:31:15,585 | INFO | Browser closed
+2026-03-13 12:31:19,473 | INFO | Browser closed
+2026-03-13 12:31:19,940 | INFO | Browser launched
+2026-03-13 12:31:41,671 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_task_status_update_20260313_123141.png
+2026-03-13 12:31:41,756 | INFO | Browser closed
+2026-03-13 12:31:50,172 | INFO | Browser launched
+2026-03-13 12:31:50,221 | INFO | Browser launched
+2026-03-13 12:31:50,230 | INFO | Browser launched
+2026-03-13 12:31:55,351 | INFO | Browser closed
+2026-03-13 12:31:55,915 | INFO | Browser launched
+2026-03-13 12:31:56,975 | INFO | Browser closed
+2026-03-13 12:31:57,093 | INFO | Browser closed
+2026-03-13 12:31:57,475 | INFO | Browser closed
+2026-03-13 12:31:57,623 | INFO | Browser launched
+2026-03-13 12:31:57,735 | INFO | Browser launched
+2026-03-13 12:31:58,113 | INFO | Browser launched
+2026-03-13 12:32:02,905 | INFO | Browser closed
+2026-03-13 12:32:04,382 | INFO | Browser closed
+2026-03-13 12:32:04,903 | INFO | Browser launched
+2026-03-13 12:32:08,083 | INFO | Browser closed
+2026-03-13 12:32:08,821 | INFO | Browser closed
+2026-03-13 12:32:09,274 | INFO | Browser launched
+2026-03-13 12:32:30,772 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_task_status_update_20260313_123230.png
+2026-03-13 12:32:30,860 | INFO | Browser closed
+2026-03-13 12:34:22,338 | INFO | Browser launched
+2026-03-13 12:34:22,347 | INFO | Browser launched
+2026-03-13 12:34:22,386 | INFO | Browser launched
+2026-03-13 12:34:25,828 | INFO | Browser closed
+2026-03-13 12:34:26,404 | INFO | Browser launched
+2026-03-13 12:34:28,946 | INFO | Browser closed
+2026-03-13 12:34:29,533 | INFO | Browser launched
+2026-03-13 12:34:30,405 | INFO | Browser closed
+2026-03-13 12:34:30,881 | INFO | Browser closed
+2026-03-13 12:34:31,057 | INFO | Browser launched
+2026-03-13 12:34:31,098 | INFO | Browser closed
+2026-03-13 12:34:31,561 | INFO | Browser launched
+2026-03-13 12:34:31,860 | INFO | Browser launched
+2026-03-13 12:34:36,084 | INFO | Browser closed
+2026-03-13 12:34:36,446 | INFO | Browser closed
+2026-03-13 12:34:43,299 | INFO | Browser closed
+2026-03-13 12:34:43,709 | INFO | Browser launched
+2026-03-13 12:34:53,994 | INFO | Browser closed
+2026-03-13 13:33:16,893 | INFO | Browser launched
+2026-03-13 13:33:18,175 | INFO | Browser launched
+2026-03-13 13:33:18,298 | INFO | Browser launched
+2026-03-13 13:33:37,660 | INFO | Browser closed
+2026-03-13 13:33:41,622 | INFO | Browser closed
+2026-03-13 13:33:45,082 | INFO | Browser closed
+2026-03-13 13:33:48,121 | INFO | Browser launched
+2026-03-13 13:33:52,318 | INFO | Browser launched
+2026-03-13 13:33:55,666 | INFO | Browser launched
+2026-03-13 13:34:18,988 | INFO | Browser closed
+2026-03-13 13:34:24,888 | INFO | Browser closed
+2026-03-13 13:34:25,110 | INFO | Browser closed
+2026-03-13 13:34:27,917 | INFO | Browser launched
+2026-03-13 13:34:34,415 | INFO | Browser launched
+2026-03-13 13:34:50,793 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_project_creation_flow_20260313_133450.png
+2026-03-13 13:34:53,365 | INFO | Browser closed
+2026-03-13 13:34:55,909 | INFO | Browser closed
+2026-03-13 13:34:58,207 | INFO | Browser launched
+2026-03-13 13:35:32,276 | INFO | Browser closed
+2026-03-13 13:36:01,020 | INFO | Browser launched
+2026-03-13 13:36:01,031 | INFO | Browser launched
+2026-03-13 13:36:01,133 | INFO | Browser launched
+2026-03-13 13:36:29,894 | INFO | Browser closed
+2026-03-13 13:36:36,789 | INFO | Browser closed
+2026-03-13 13:36:38,283 | INFO | Browser closed
+2026-03-13 13:36:39,697 | INFO | Browser launched
+2026-03-13 13:36:47,436 | INFO | Browser launched
+2026-03-13 13:36:49,034 | INFO | Browser launched
+2026-03-13 13:37:07,344 | INFO | Browser closed
+2026-03-13 13:37:16,219 | INFO | Browser closed
+2026-03-13 13:37:17,797 | INFO | Browser closed
+2026-03-13 13:37:18,407 | INFO | Browser launched
+2026-03-13 13:37:26,384 | INFO | Browser launched
+2026-03-13 13:37:51,869 | INFO | Browser closed
+2026-03-13 13:37:51,981 | INFO | Browser closed
+2026-03-13 13:38:00,486 | INFO | Browser launched
+2026-03-13 13:38:35,615 | INFO | Browser closed

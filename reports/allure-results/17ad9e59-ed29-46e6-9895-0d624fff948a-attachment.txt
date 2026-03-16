@@ -1,0 +1,2 @@
+2026-03-13 11:51:48,411 | INFO | Browser launched
+2026-03-13 11:51:53,116 | INFO | Browser closed

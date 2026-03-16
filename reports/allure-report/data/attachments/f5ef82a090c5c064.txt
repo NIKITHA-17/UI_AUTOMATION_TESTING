@@ -1,0 +1,3 @@
+2026-03-13 11:40:52,895 | INFO | Browser launched
+2026-03-13 11:40:53,554 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_dashboard_role_visible_20260313_114053.png
+2026-03-13 11:40:53,633 | INFO | Browser closed
