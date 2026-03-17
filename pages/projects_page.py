@@ -1,4 +1,8 @@
+from time import time
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
+from selenium.common.exceptions import TimeoutException
 from pages.base_page import BasePage
 from config.locators import ProjectsLocators
 
@@ -10,6 +14,7 @@ class ProjectsPage(BasePage):
 
     def create_project(self, name, description, status):
         self.click(ProjectsLocators.ADD_PROJECT_BTN)
+
         self.type(ProjectsLocators.PROJECT_NAME, name)
         self.type(ProjectsLocators.PROJECT_DESC, description)
 
@@ -20,9 +25,26 @@ class ProjectsPage(BasePage):
 
         self.click(ProjectsLocators.SAVE_PROJECT)
 
+        try:
+            self.waits.invisible(ProjectsLocators.SAVE_PROJECT)
+        except Exception:
+            pass
+
     def search_project(self, name):
-        self.type(ProjectsLocators.SEARCH_PROJECT, name)
+        box = self.waits.visible(ProjectsLocators.SEARCH_PROJECT)
+        box.clear()
+        box.send_keys(name)
+        box.send_keys(Keys.ENTER)
 
     def project_exists(self, project_name):
-        rows = self.driver.find_elements(*ProjectsLocators.PROJECT_ROW)
-        return any(project_name.lower() in row.text.lower() for row in rows)
+        def _project_found(driver):
+            rows = driver.find_elements(*ProjectsLocators.PROJECT_ROW)
+            for row in rows:
+                if project_name.lower() in row.text.lower():
+                    return True
+            return False
+
+        try:
+            return self.waits.wait.until(_project_found)
+        except TimeoutException:
+            return False

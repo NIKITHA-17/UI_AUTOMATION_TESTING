@@ -1,3 +1,0 @@
-2026-03-13 12:20:26,603 | INFO | Browser launched
-2026-03-13 12:20:39,185 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_frames_and_windows_20260313_122038.png
-2026-03-13 12:20:39,268 | INFO | Browser closed

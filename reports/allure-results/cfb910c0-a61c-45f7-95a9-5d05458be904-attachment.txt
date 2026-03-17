@@ -1,3 +1,0 @@
-2026-03-13 11:41:00,311 | INFO | Browser launched
-2026-03-13 11:41:01,186 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_admin_users_page_access_20260313_114100.png
-2026-03-13 11:41:01,268 | INFO | Browser closed

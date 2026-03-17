@@ -1,3 +1,0 @@
-2026-03-13 12:20:22,569 | INFO | Browser launched
-2026-03-13 12:20:35,310 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_project_creation_flow_20260313_122034.png
-2026-03-13 12:20:35,406 | INFO | Browser closed

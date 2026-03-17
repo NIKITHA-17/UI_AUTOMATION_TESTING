@@ -1,3 +1,0 @@
-2026-03-13 12:20:35,861 | INFO | Browser launched
-2026-03-13 12:20:48,127 | ERROR | Test failed. Screenshot saved at: reports\screenshots\test_task_status_update_20260313_122047.png
-2026-03-13 12:20:48,212 | INFO | Browser closed
